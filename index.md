@@ -12,6 +12,6 @@
 <img src="images/manajemen.png?raw=true"/>
 
 ---
-[Youtube Crawling for Sentiment Analysis](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Youtube Crawling for Sentiment Analysis](/sample_page2)
+<img src="images/sentiment.png?raw=true"/>
 
