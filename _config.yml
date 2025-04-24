@@ -2,11 +2,11 @@ title: Ridho Nugroho # your name (or website title) here
 logo: "/images/pp.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I'm a 4th-semester Informatics Engineering student with a strong focus on Artificial Intelligence and Data Science.
-  <br><br>
+  <br>
   With hands-on experience in Python, RapidMiner, and TensorFlow, I build predictive models and data-driven solutions.
   <br><br>
-  <a href="https://www.linkedin.com/in/ridho-nugroho-a249b8361/">View My LinkedIn Profile</a> 
-  <a href="mailto:ridhonugroho1812@gmail.com"><img src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000">ridhonugroho1812@gmail.com</a>
+  🔗<a href="https://www.linkedin.com/in/ridho-nugroho-a249b8361/">LinkedIn Profile</a> 
+  📫<a href="mailto:ridhonugroho1812@gmail.com">ridhonugroho1812@gmail.com</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
