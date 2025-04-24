@@ -13,5 +13,5 @@
 
 ---
 [Youtube Crawling for Sentiment Analysis](/sample_page2)
-<img src="images/sentiment.png?raw=true"/>
+<img src="images/sentiment_rapid.png?raw=true"/>
 
