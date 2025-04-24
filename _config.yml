@@ -5,8 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   With hands-on experience in Python, RapidMiner, and TensorFlow, I build predictive models and data-driven solutions.
   <br><br>
-  🔗<a href="https://www.linkedin.com/in/ridho-nugroho-a249b8361/">LinkedIn Profile</a><br> 
-  📫<a href="mailto:ridhonugroho1812@gmail.com">ridhonugroho1812@gmail.com</a>
+  <a href="https://www.linkedin.com/in/ridho-nugroho-a249b8361/">View My LinkedIn Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
