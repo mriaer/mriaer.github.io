@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Analysis Data Sample Superstore](/sample_page)
 <img src="images/superstore.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Web Manajemen Proyek](/pdf/manajemen.pdf)
+<img src="images/manajemen.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
